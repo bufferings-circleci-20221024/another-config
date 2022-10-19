@@ -1,1 +1,3 @@
-# use-another-path
+# another-config1
+
+Use another file name.
