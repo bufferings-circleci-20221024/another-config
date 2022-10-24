@@ -9,4 +9,4 @@ workflows:
   use-another-yml:
     jobs:
       - continuation/continue:
-          configuration_path: .circleci/hello.yml
+          configuration_path: example/hello2.yml
