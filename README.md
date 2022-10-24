@@ -13,3 +13,4 @@ We can also try this:
 ```yml
 configuration_path: example/hello2.yml
 ```
+
